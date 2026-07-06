@@ -35,7 +35,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Sarthak690/AI-Blog-main.git
+   git clone https://github.com/Sarthak690/AI-Blog-Application.git
    cd AI-Blog
 
    ```
